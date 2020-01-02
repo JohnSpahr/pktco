@@ -7,5 +7,7 @@ We're glad you took the time to visit our website! You can view its pages below.
 - [Components](http://johnspahr.github.io/pktco/components)
 - [About](http://johnspahr.github.io/pktco/about)
 - [Contact](http://johnspahr.github.io/pktco/contact)
+
 ### Contact
-pktco.official@gmail.com
+[mailto](pktco.official@gmail.com)
+
