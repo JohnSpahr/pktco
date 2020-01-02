@@ -9,5 +9,5 @@ We're glad you took the time to visit our website! You can view its pages below.
 - [Contact](http://johnspahr.github.io/pktco/contact)
 
 ### Contact
-[mailto](pktco.official@gmail.com)
+[Email Us](pktco.official@gmail.com)
 
